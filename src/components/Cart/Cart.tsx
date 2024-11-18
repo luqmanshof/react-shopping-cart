@@ -17,7 +17,7 @@ const Cart = () => {
         )}`
       );
     } else {
-      alert('Add some product in the cart!');
+      alert('Add new product in the cart!');
     }
   };
 
