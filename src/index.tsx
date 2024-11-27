@@ -15,6 +15,7 @@ import App from 'components/App';
 const root = document.getElementById('root')!;
 const container = ReactDOMClient.createRoot(root);
 
+
 container.render(
   <StrictMode>
     <ThemeProvider theme={theme}>
